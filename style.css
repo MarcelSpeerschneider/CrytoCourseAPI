@@ -1,0 +1,8 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(182, 181, 181, 0.151);
+}
+
+#myChart {
+    width: 800px;
+}
